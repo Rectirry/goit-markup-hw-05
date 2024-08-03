@@ -484,7 +484,9 @@ body .footer-desc {
 }
 
 .footer-form {
-
+  width: 453px;
+  height: 80px;
+  padding-left: 80px;
 }
 
 .footer-form-paragraf {
@@ -499,4 +501,14 @@ body .footer-desc {
 .form {
   display: flex;
   
+}
+
+.footer-formular {
+  display: flex;
+    gap: 24px;
+}
+
+.footer-imput {
+  
+}
 }
